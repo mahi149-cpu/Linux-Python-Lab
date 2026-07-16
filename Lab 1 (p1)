@@ -1,1 +1,41 @@
+ibab@IBAB-MScBDB04-Comp12:~$ uname -a
+Linux IBAB-MScBDB04-Comp12.ibab.ac.in 7.0.0-14-generic #14-Ubuntu SMP PREEMPT_DYNAMIC Mon Apr 13 11:09:53 UTC 2026 x86_64 GNU/Linux
+ibab@IBAB-MScBDB04-Comp12:~$ uname -r
+7.0.0-14-generic
+ibab@IBAB-MScBDB04-Comp12:~$ uname -n
+IBAB-MScBDB04-Comp12.ibab.ac.in
+ibab@IBAB-MScBDB04-Comp12:~$ uname -m
+x86_64
+ibab@IBAB-MScBDB04-Comp12:~$ uname -s
+Linux
+ibab@IBAB-MScBDB04-Comp12:~$ uname -o
+GNU/Linux
+ibab@IBAB-MScBDB04-Comp12:~$ pwd
+/home/ibab
+ibab@IBAB-MScBDB04-Comp12:~$ man uname 
+ibab@IBAB-MScBDB04-Comp12:~$ whoami
+ibab
+ibab@IBAB-MScBDB04-Comp12:~$ hostname
+IBAB-MScBDB04-Comp12.ibab.ac.in
+ibab@IBAB-MScBDB04-Comp12:~$ uname -n
+IBAB-MScBDB04-Comp12.ibab.ac.in
+ibab@IBAB-MScBDB04-Comp12:~$ mkdir Lab1
+ibab@IBAB-MScBDB04-Comp12:~$ cd Lab 1
+bash: cd: too many arguments
+ibab@IBAB-MScBDB04-Comp12:~$ cd Lab1
+ibab@IBAB-MScBDB04-Comp12:~/Lab1$ cd/home/ibab
+bash: cd/home/ibab: No such file or directory
+ibab@IBAB-MScBDB04-Comp12:~/Lab1$ cd /home/ibab
+ibab@IBAB-MScBDB04-Comp12:~$ cd Lab1
+ibab@IBAB-MScBDB04-Comp12:~/Lab1$ cd ../..
+ibab@IBAB-MScBDB04-Comp12:/home$ cd
+ibab@IBAB-MScBDB04-Comp12:~$ rm -r Lab1
+ibab@IBAB-MScBDB04-Comp12:~$ man rm
+ibab@IBAB-MScBDB04-Comp12:~$ ls -a
+.   .bash_history  .bashrc  .config  .local    .ssh        Desktop    Downloads  Pictures  Templates  snap
+..  .bash_logout   .cache   .gnupg   .profile  1stlab.txt  Documents  Music      Public    Videos
+ibab@IBAB-MScBDB04-Comp12:~$ 
+
+
+
 
